@@ -1,0 +1,1 @@
+# gradle-kotlin-sealed-plugin
